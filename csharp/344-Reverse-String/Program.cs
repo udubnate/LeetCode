@@ -7,6 +7,7 @@ namespace _344_Reverse_String
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("This is so cool.");
         }
     }
 }
