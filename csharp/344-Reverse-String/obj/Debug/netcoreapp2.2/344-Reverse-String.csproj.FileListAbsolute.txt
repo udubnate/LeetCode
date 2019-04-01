@@ -1,0 +1,11 @@
+C:\source\Git\LeetCode\csharp\344-Reverse-String\bin\Debug\netcoreapp2.2\344-Reverse-String.deps.json
+C:\source\Git\LeetCode\csharp\344-Reverse-String\bin\Debug\netcoreapp2.2\344-Reverse-String.runtimeconfig.json
+C:\source\Git\LeetCode\csharp\344-Reverse-String\bin\Debug\netcoreapp2.2\344-Reverse-String.runtimeconfig.dev.json
+C:\source\Git\LeetCode\csharp\344-Reverse-String\bin\Debug\netcoreapp2.2\344-Reverse-String.dll
+C:\source\Git\LeetCode\csharp\344-Reverse-String\bin\Debug\netcoreapp2.2\344-Reverse-String.pdb
+C:\source\Git\LeetCode\csharp\344-Reverse-String\obj\Debug\netcoreapp2.2\344-Reverse-String.csprojAssemblyReference.cache
+C:\source\Git\LeetCode\csharp\344-Reverse-String\obj\Debug\netcoreapp2.2\344-Reverse-String.csproj.CoreCompileInputs.cache
+C:\source\Git\LeetCode\csharp\344-Reverse-String\obj\Debug\netcoreapp2.2\344-Reverse-String.AssemblyInfoInputs.cache
+C:\source\Git\LeetCode\csharp\344-Reverse-String\obj\Debug\netcoreapp2.2\344-Reverse-String.AssemblyInfo.cs
+C:\source\Git\LeetCode\csharp\344-Reverse-String\obj\Debug\netcoreapp2.2\344-Reverse-String.dll
+C:\source\Git\LeetCode\csharp\344-Reverse-String\obj\Debug\netcoreapp2.2\344-Reverse-String.pdb
