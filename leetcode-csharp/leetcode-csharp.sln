@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "concatenation-of-array", "c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome-number", "palindrome-number\palindrome-number.csproj", "{A2C7CEB3-522F-48A8-8E70-7A87E49CE28A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "count-odd-numbers-in-an-interval-range", "count-odd-numbers-in-an-interval-range\count-odd-numbers-in-an-interval-range.csproj", "{5EDDAF5C-F871-48CE-81CC-ECB44CC1987B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A2C7CEB3-522F-48A8-8E70-7A87E49CE28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2C7CEB3-522F-48A8-8E70-7A87E49CE28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2C7CEB3-522F-48A8-8E70-7A87E49CE28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDDAF5C-F871-48CE-81CC-ECB44CC1987B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDDAF5C-F871-48CE-81CC-ECB44CC1987B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDDAF5C-F871-48CE-81CC-ECB44CC1987B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDDAF5C-F871-48CE-81CC-ECB44CC1987B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
