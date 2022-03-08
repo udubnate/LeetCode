@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "number-of-1-bits", "number-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "subtract-the-product-and-sum-of-digits-of-an-integer", "subtract-the-product-and-sum-of-digits-of-an-integer\subtract-the-product-and-sum-of-digits-of-an-integer.csproj", "{F4F72D9B-C381-4D1B-9982-CE64F5D5C605}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "largest-perimeter-triangle", "largest-perimeter-triangle\largest-perimeter-triangle.csproj", "{DDD07F2A-D438-4CC0-A1EE-4198A653D1F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F4F72D9B-C381-4D1B-9982-CE64F5D5C605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4F72D9B-C381-4D1B-9982-CE64F5D5C605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4F72D9B-C381-4D1B-9982-CE64F5D5C605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD07F2A-D438-4CC0-A1EE-4198A653D1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD07F2A-D438-4CC0-A1EE-4198A653D1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD07F2A-D438-4CC0-A1EE-4198A653D1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD07F2A-D438-4CC0-A1EE-4198A653D1F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
