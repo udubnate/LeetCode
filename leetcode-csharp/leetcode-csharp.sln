@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "palindrome-number", "palind
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "count-odd-numbers-in-an-interval-range", "count-odd-numbers-in-an-interval-range\count-odd-numbers-in-an-interval-range.csproj", "{5EDDAF5C-F871-48CE-81CC-ECB44CC1987B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "average-salary-excluding-the-minimum-and-maximum-salary", "average-salary-excluding-the-minimum-and-maximum-salary\average-salary-excluding-the-minimum-and-maximum-salary.csproj", "{2A776D37-B966-4424-8A60-650D403BF39A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "average-salary-excluding-the-minimum-and-maximum-salary", "average-salary-excluding-the-minimum-and-maximum-salary\average-salary-excluding-the-minimum-and-maximum-salary.csproj", "{2A776D37-B966-4424-8A60-650D403BF39A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "number-of-1-bits", "number-of-1-bits\number-of-1-bits.csproj", "{87454A65-7209-4EB5-AAB4-FA9C20B8AD48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "number-of-1-bits", "number-of-1-bits\number-of-1-bits.csproj", "{87454A65-7209-4EB5-AAB4-FA9C20B8AD48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "subtract-the-product-and-sum-of-digits-of-an-integer", "subtract-the-product-and-sum-of-digits-of-an-integer\subtract-the-product-and-sum-of-digits-of-an-integer.csproj", "{F4F72D9B-C381-4D1B-9982-CE64F5D5C605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "subtract-the-product-and-sum-of-digits-of-an-integer", "subtract-the-product-and-sum-of-digits-of-an-integer\subtract-the-product-and-sum-of-digits-of-an-integer.csproj", "{F4F72D9B-C381-4D1B-9982-CE64F5D5C605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "largest-perimeter-triangle", "largest-perimeter-triangle\largest-perimeter-triangle.csproj", "{DDD07F2A-D438-4CC0-A1EE-4198A653D1F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "largest-perimeter-triangle", "largest-perimeter-triangle\largest-perimeter-triangle.csproj", "{DDD07F2A-D438-4CC0-A1EE-4198A653D1F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find-nearest-point-that-has-the-same-x-or-y-coordinate", "find-nearest-point-that-has-the-same-x-or-y-coordinate\find-nearest-point-that-has-the-same-x-or-y-coordinate.csproj", "{AD052484-1A06-48F4-B56C-B0D16CB1502F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{DDD07F2A-D438-4CC0-A1EE-4198A653D1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDD07F2A-D438-4CC0-A1EE-4198A653D1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDD07F2A-D438-4CC0-A1EE-4198A653D1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD052484-1A06-48F4-B56C-B0D16CB1502F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD052484-1A06-48F4-B56C-B0D16CB1502F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD052484-1A06-48F4-B56C-B0D16CB1502F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD052484-1A06-48F4-B56C-B0D16CB1502F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
