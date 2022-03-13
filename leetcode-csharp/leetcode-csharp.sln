@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "find-nearest-point-that-has
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sign-of-the-product-of-an-array", "sign-of-the-product-of-an-array\sign-of-the-product-of-an-array.csproj", "{529643C0-3A7D-4D29-9110-C550C6BCF205}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "can-make-arithmetic-progression-from-sequence", "can-make-arithmetic-progression-from-sequence\can-make-arithmetic-progression-from-sequence.csproj", "{14BCF5D5-5FF5-4671-B563-F24E37869224}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{529643C0-3A7D-4D29-9110-C550C6BCF205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{529643C0-3A7D-4D29-9110-C550C6BCF205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{529643C0-3A7D-4D29-9110-C550C6BCF205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BCF5D5-5FF5-4671-B563-F24E37869224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BCF5D5-5FF5-4671-B563-F24E37869224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BCF5D5-5FF5-4671-B563-F24E37869224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BCF5D5-5FF5-4671-B563-F24E37869224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
