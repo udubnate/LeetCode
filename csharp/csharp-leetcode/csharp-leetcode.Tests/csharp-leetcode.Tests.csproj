@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\concatenation-of-array\csharpleetcodelib.csproj" />
+    <ProjectReference Include="..\csharp-leetcode\csharpleetcodelib.csproj" />
   </ItemGroup>
 
 </Project>

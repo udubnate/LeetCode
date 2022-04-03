@@ -13,7 +13,7 @@ namespace csharp_leetcode.Tests
         [Test]
         public void Concantenation_of_array_test()
         {
-            concatenation_of_array coa = new concatenation_of_array();
+            Concatenation_of_array coa = new Concatenation_of_array();
             int[] test1 = coa.GetConcatenation(new int[] { 1, 2, 1 });
             Assert.That(test1, Is.EqualTo(new int[] { 1, 2, 1, 1, 2, 1}));
             

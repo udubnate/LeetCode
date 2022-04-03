@@ -1,6 +1,6 @@
 ﻿namespace csharp_leetcode
 {
-    public class concatenation_of_array
+    public class Concatenation_of_array
     {
         public int[] GetConcatenation(int[] nums)
         {
